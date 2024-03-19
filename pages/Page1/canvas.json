@@ -1,0 +1,78 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1290,
+          "containerStyle": "none",
+          "snapRows": 125,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "formily1",
+              "isCanvas": false,
+              "displayName": "Formily表单",
+              "iconSVG": "/static/media/icon.ea3e08d130e59c56867ae40114c10eed.svg",
+              "searchTags": [
+                "form",
+                "submit"
+              ],
+              "topRow": 11,
+              "bottomRow": 63,
+              "parentRowSpace": 10,
+              "title": "表单标题",
+              "type": "FORMILY_WIDGET",
+              "triggerLabel": "打开表单",
+              "hideCard": false,
+              "parentColumnSpace": 13.609375,
+              "leftColumn": 19,
+              "dynamicBindingPathList": [],
+              "resetLabel": "重置",
+              "showReset": true,
+              "key": "m8grnsdxze",
+              "submitLabel": "提交",
+              "formType": "PLAIN",
+              "isDeprecated": false,
+              "rightColumn": 51,
+              "widgetId": "956pp47n19",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "65f9230202f2017cc3d54086_65f9230202f2017cc3d54088"
+}
